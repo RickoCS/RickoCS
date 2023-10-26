@@ -1,5 +1,5 @@
 Nama   : Ricko Chandra Saputra 
-// NIM    : 5311421075
+NIM    : 5311421075
 
 **Penggunaan Algoritma KNN untuk Membantu Klasifikasi Data Pasien Penyakit Diabetes**
 
@@ -13,10 +13,12 @@ Klasifikasi data pasien dengan gejala penyakit diabetes dapat membantu dokter da
 Selain itu klasifikasi data pasien dengan gejala penyakit diabetes juga dapat membantu pasien dalam meningkatkan kesadaran dan kewaspadaan terhadap penyakitnya.
 
 Salah satu metode klasifikasi data yang dapat digunakan adalah K-Nearest Neighbor (KNN). 
-KNN adalah salah satu algoritma dalam machine learning yang bekerja dengan mencari kategori terdekat dari data yang baru diberikan berdasarkan jarak euclidean atau jarak manhattan.
-Kategori yang dipilih adalah kategori yang paling banyak muncul di antara tetangga terdekat dari data yang baru diberikan. 
+KNN adalah salah satu algoritma dalam machine learning yang memiliki prinsip kerja dengan mencari tetangga terdekat dari data yang baru diberikan berdasarkan jarak euclidean atau jarak manhattan.
+Algoritma ini pada prinsip kerjanya menggunakan data pelatihan untuk menentukan kelas atau target dari suatu objek baru berdasarkan jaraknya dengan objek pelatihan yang kelas atau targetnya sudah diketahui.
+Algoritma KNN ini juga dapat disesuaikan untuk mengatasi data yang tidak seimbang dengan cara memberikan bobot pada setiap tetangga berdasarkan jaraknya dari objek baru.
+Pada proses klasifikasi menggunakan algoritma KNN ini dibutuhkan nilai k yang berfungsi sebagai menentukan jumlah tetangga terdekat yang akan dipertimbangkan.
 KNN memiliki beberapa kelebihan, seperti mudah dipahami dan diimplementasikan, fleksibel terhadap jenis data, dan tidak memerlukan asumsi tentang distribusi data. 
-Namun, KNN juga memiliki beberapa kelemahan, seperti sensitif terhadap data yang tidak relevan atau mempengaruhi klasifikasi atau regresi, membutuhkan waktu komputasi yang lama, dan memerlukan pemilihan nilai k yang optimal.
+Namun, KNN juga memiliki beberapa kelemahan, seperti sensitif terhadap data yang tidak relevan atau mempengaruhi klasifikasi atau regresi, membutuhkan waktu komputasi yang lama, dan memerlukan pemilihan nilai k yang tepat.
 
 Data parameter penyakit diabetes yang akan digunakan untuk diklasifikasi menggunakan algoritma KNN adalah meliputi konsentrasi glukosa, tekanan darah (mmHg), 
 ketebalan lipatan kulit trisep (mm), tingkat insulin pada tubuh, indeks massa tubuh, indikator riwayat diabetes dalam keluarga. dan umur pasien. 
