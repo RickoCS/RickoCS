@@ -25,4 +25,4 @@ ketebalan lipatan kulit trisep (mm), tingkat insulin pada tubuh, indeks massa tu
 Untuk mempermudah proses klasifikasi dengan algoritma KNN, maka dapat menggunakan beberapa alat bantu seperti orange data mining dan jupyter notebook. 
 Klasifikasi menggunakan algoritma KNN ini dapat dengan cara memasukan nilai indikator dari pasien yang akan diperiksa berdasarkan data parameter yang sudah disebutkan sebelumnya dan mengatur nilai k yang optimal untuk mendapatkan hasil klasifikasi yang terbaik. 
 Kemudian langkah selanjutnya adalah algoritma KNN akan melakukan klasifikasi data pasien dengan gejala penyakit diabetes.
-Kemudian setelah proses klasifikasi, maka didapatkan hasil diagnosa bahwa pasien tersebut terkena penyakit diabetes atau tidak berdasarkan data yang sudah diklasifikasi. 
+Setelah proses klasifikasi selesai, maka didapatkan hasil diagnosa bahwa pasien tersebut terkena penyakit diabetes atau tidak berdasarkan data yang sudah diklasifikasi. 
