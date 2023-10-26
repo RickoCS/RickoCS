@@ -6,7 +6,7 @@ NIM    : 5311421075
 Penyakit diabetes adalah salah satu penyakit yang ditandai dengan kadar glukosa darah yang tinggi akibat dari gangguan kerja insulin yang merupakan hormon pada tubuh yang mengatur kadar gula dalam darah. 
 Penyakit diabetes dapat menyebabkan dampak yang serius, seperti gangguan jantung, ginjal, mata, saraf, dan pembuluh darah. 
 Di Indonesia sendiri jumlah pasien yang terkena penyakit diabetes menurut laporan International Diabetes Federation (IDF) mencapai 41 ribu orang pada tahun 2022. 
-Oleh karena itu untuk mengatasi jumlah pasien penyakit diabetes bertambah, maka dibutuhkan suatu metode untuk mengetahui penyakit diabetes sejak dini dan dapat ditanagni secara langsung. 
+Oleh karena itu untuk mengatasi jumlah pasien penyakit diabetes yang semakin bertambah, maka dibutuhkan suatu metode atau solusi untuk mengetahui penyakit diabetes sejak dini dan dapat ditangani secara langsung. 
 
 Salah satu cara untuk mendeteksi penyakit diabetes adalah dengan melakukan klasifikasi data pasien berdasarkan gejala-gejala dan hasil pemeriksaan laboratorium yang dimiliki. 
 Klasifikasi data pasien dengan gejala penyakit diabetes dapat membantu dokter dalam melakukan diagnosis dan pengobatan yang tepat bagi pasien.  
