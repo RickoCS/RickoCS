@@ -1,5 +1,5 @@
 Nama   : Ricko Chandra Saputra 
-NIM    : 5311421075
+|| NIM    : 5311421075
 
 **Penggunaan Algoritma KNN untuk Membantu Klasifikasi Data Pasien Penyakit Diabetes**
 
